@@ -1,0 +1,16 @@
+{
+  "tutorials": [
+    {
+      "id": 1,
+      "title": "HTML Tutorial",
+      "description": "Tutorial for html website",
+      "published": false
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "description": "Description of CSS",
+      "published": true
+    }
+  ]
+}
